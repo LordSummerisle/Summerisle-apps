@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AEWApplication</Name>
+    <Assembly>AEW_Ribbon.dll</Assembly>
+    <AddInId>726FF050-EFBB-4B39-8042-D06311DE9A0B</AddInId>
+    <FullClassName>AEW_Ribbon.App</FullClassName>
+    <VendorId>Mark Haworth</VendorId>
+    <VendorDescription>AEW Architects</VendorDescription>
+  </AddIn>
+</RevitAddIns>
